@@ -1,0 +1,18 @@
+Day 26,27:
+//Component Life cycle:(Imporatant interview Questions)
+    * Initialization
+    * Mounting
+    * Updation
+    * UnMounting
+
+CRUR Application: (line 154 in App.js)
+    * What is hook?
+    * Lifecycle of Hook
+    * useState, useEffect
+    * Props drilling
+    * Passing data from child to parent component
+    * react-router-dom
+      * npm install react-router-dom@5 (5TH VERSION INSTALL SETUP)
+      * router setup in index.js
+    * BrouserRouter, Switch, Link, Route, url params
+    * Material UI(instead of bootstrap)
